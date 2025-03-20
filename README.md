@@ -4,16 +4,16 @@ This is the first website I have created on the MadLab Intro to Web Development 
 
 This Mark Down File will also serve as a place to practice my Markdown Syntax.
 
-# is a First-Level Heading.
-## is a Second-Level Heading.
-### is a Third-Level Heading.
+# One Hash is a First-Level Heading.
+## Two Hash is a Second-Level Heading.
+### Three Hash is a Third-Level Heading.
 
-**This text is Bold** or __double underscore__
-*This text is Italics* or _single underscore_
-~~This is Strikethrough~~
+**Two Asterix is Bold Text.** or __double underscore.__
+*One Asterix is Italics.* or _single underscore._
+~~Two tilde is Strikethrough~~
 
-> This is a Quote
+> Right Angle Bracket is a Quote.
 
-To make text appear as code we use `Back Ticks` and it will change the appearance of the contsined words.
+`Back Ticks` make text appear as code, and it will change the appearance of the contained words.
 
-Triple backticks ```creates a block of code.```
+```Triple Backticks``` creates a block of code.
